@@ -3,7 +3,6 @@
   
 Olá! Eu sou o Carlos, tenho 17 anos e atualmente estou estudando Front-End.
 
-  <br>
  
 Sociais
 <br>
@@ -29,5 +28,4 @@ Linguagens
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
   </div>
 
-  
-  ![Imgur](https://imgur.com/qf6T8FO.gif)
+   <img src="https://i.imgur.com/qf6T8FO.gif.gif">
