@@ -30,4 +30,4 @@ Linguagens
   </div>
 
   
-  ![gif](https://imgur.com/qf6T8FO.gif)
+  ![Imgur](https://imgur.com/qf6T8FO.gif)
