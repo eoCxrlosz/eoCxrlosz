@@ -39,6 +39,6 @@ Olá! Eu sou o Carlos, tenho 17 anos e atualmente estou estudando Front-End.
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eoCxrlosz&bg_color=transparent&color=5d1458&line=571453&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eoCxrlosz&bg_color=transparent&color=5e0d7c&line=571453&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e0d7c&height=120&section=footer"/>
