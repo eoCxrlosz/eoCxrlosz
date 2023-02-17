@@ -25,4 +25,3 @@ Linguagens
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
   </div>
 
-   <img src="https://i.imgur.com/qf6T8FO.gif.gif">
