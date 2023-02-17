@@ -1,4 +1,4 @@
-### Oi! Eu sou o Carlos, estudante de Desenvolvimento Web!
+### Oi! Eu sou o Carlos, tenho 17 anos e atualmente estou estudando Desenvolvimento Web.
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ce501@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-arenhardt-scain-727bb7261/)
