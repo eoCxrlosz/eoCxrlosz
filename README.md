@@ -13,9 +13,6 @@
 
 
 
-<h2 align="center"> Linguagens
-<div align="center">
-
 <div style="display: inline_block"><br/>
   <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
