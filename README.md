@@ -18,7 +18,7 @@ Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoCxrlosz&show_icons=true&theme=dracula)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoCxrlosz&hide_progress=false=html&layout=compact=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoCxrlosz&hide_progress=false=html&layout=compact=true&theme=transparent)]
   
 Linguagens
 <div style="display: inline_block"><br/>
