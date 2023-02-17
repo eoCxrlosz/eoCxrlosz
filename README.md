@@ -9,14 +9,12 @@ Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-arenhardt-scain-727bb7261/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eoCxrlosz_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eocxrlosz/)
-<hr>
 
 Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoCxrlosz&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoCxrlosz&hide_progress=false=html&layout=compact=true&theme=transparent)
-  <hr>
-  
+
 Linguagens
   
 <div style="display: inline_block">
