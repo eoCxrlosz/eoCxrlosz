@@ -1,23 +1,35 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e0d7c&height=120&section=header"/>
+
+<div align="center"> 
 Olá! Eu sou o Carlos, tenho 17 anos e atualmente estou estudando Front-End.
+  </div>
 <br>
 <hr>
-
-Sociais
 <br>
-  
+   
+   <div align="center"> 
+   
+   Sociais
+   
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ce501@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-arenhardt-scain-727bb7261/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eoCxrlosz_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eocxrlosz/)
+  </div>
 
-Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoCxrlosz&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoCxrlosz&hide_progress=false=html&layout=compact=true&theme=transparent)
-
-Linguagens
+<div align="center">
   
-<div style="display: inline_block">
+  Estatísticas
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eoCxrlosz&show_icons=true&count_private=true&hide_border=true&title_color=5e0d7c&icon_color=5e0d7c&text_color=5e0d7c&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoCxrlosz&layout=compact&hide_border=true&title_color=5e0d7c&text_color=5e0d7c&bg_color=0d1117" />
+</div>
+
+  
+<div style="display: inline_block" align="center">
+  
+  Linguagens
+  
   <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -27,8 +39,6 @@ Linguagens
 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://user-images.githubusercontent.com/109439122/219806802-c6d698a1-4868-472d-b659-f3c5919a6a68.gif" width="700" height="300">
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eoCxrlosz&bg_color=transparent&color=5d1458&line=571453&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e0d7c&height=120&section=footer"/>
