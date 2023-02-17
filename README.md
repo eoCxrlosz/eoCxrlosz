@@ -1,6 +1,3 @@
-<h2 align="center"> 
-<div align="center">
-  
 Olá! Eu sou o Carlos, tenho 17 anos e atualmente estou estudando Front-End.
 
 <br>
@@ -17,7 +14,6 @@ Sociais
 Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoCxrlosz&show_icons=true&theme=dracula)
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoCxrlosz&hide_progress=false=html&layout=compact=true&theme=transparent)
   
 Linguagens
