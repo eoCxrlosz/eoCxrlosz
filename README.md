@@ -12,7 +12,7 @@ Olá! Eu sou o Carlos, tenho 17 anos e atualmente estou estudando Front-End.
    Sociais
    
 [![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ce501@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-arenhardt-scain-727bb7261/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-scain-727bb7261/)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eoCxrlosz_)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eocxrlosz/)
   </div>
