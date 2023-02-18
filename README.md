@@ -21,8 +21,8 @@ Olá! Eu sou o Carlos, tenho 17 anos e atualmente estou estudando Front-End.
   
   Estatísticas
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eoCxrlos&show_icons=true&count_private=true&hide_border=true&title_color=5e0d7c&icon_color=5e0d7c&text_color=5e0d7c&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoCxrlos&layout=compact&hide_border=true&title_color=5e0d7c&text_color=5e0d7c&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eoCxrlosz&show_icons=true&count_private=true&hide_border=true&title_color=5e0d7c&icon_color=5e0d7c&text_color=5e0d7c&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoCxrlosz&layout=compact&hide_border=true&title_color=5e0d7c&text_color=5e0d7c&bg_color=0d1117" />
 </div>
 
   
@@ -39,7 +39,7 @@ Olá! Eu sou o Carlos, tenho 17 anos e atualmente estou estudando Front-End.
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eoCxrlos&bg_color=transparent&color=5e0d7c&line=571453&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eoCxrlosz&bg_color=transparent&color=5e0d7c&line=571453&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
