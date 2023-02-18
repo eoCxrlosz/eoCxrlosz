@@ -19,11 +19,7 @@ Olá! Eu sou o Carlos, tenho 17 anos e atualmente estou estudando Front-End.
 
 <div align="center">
   
-  Estatísticas
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eoCxrlosz&show_icons=true&count_private=true&hide_border=true&title_color=5e0d7c&icon_color=5e0d7c&text_color=5e0d7c&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoCxrlosz&layout=compact&hide_border=true&title_color=5e0d7c&text_color=5e0d7c&bg_color=0d1117" />
-</div>
+
 
   
 <div style="display: inline_block" align="center">
