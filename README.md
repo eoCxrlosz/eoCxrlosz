@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e0d7c&height=120&section=header"/>
 
 <div align="center"> 
-Olá! Eu sou o Carlos, tenho 17 anos e atualmente estou estudando Front-End.
+Olá! Eu sou o Carlos, tenho 18 anos e atualmente estou estudando Front-End.
   </div>
 <br>
 <hr>
